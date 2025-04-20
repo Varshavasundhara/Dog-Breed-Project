@@ -1,0 +1,1 @@
+Dog Breed Classifier is an AI-powered model that accurately identifies dog breeds from images using deep learning — combining computer vision and intelligence to recognize breeds with speed, precision, and style.
